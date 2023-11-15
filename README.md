@@ -1,72 +1,42 @@
-<h2 align="center">
-  Rahul Jha | Portfolio Website<br/>
-  <a href="https://portfolio-website-rahuljha4171.vercel.app/" target="_blank">rahul jha</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme_img.png" />
-</div>
+# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
 
-<br/>
+![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
-<div align="center">
+This repository contains starter code for Portfolio website created using NextJs. <br />
 
-![GitHub Repo stars](https://img.shields.io/github/stars/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge)
+For Demo and Final Code checkout following link👇: <br />
+[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
 
-</div>
+If you want to learn how to create it please follow below tutorial👇: <br />
+https://youtu.be/Yw7yWHigGKI <br />
+[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
 
-You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Rahuljha4171](https://github.com/rahuljha4171/Portfolio-Website). Thanks in Advance😍!
+### Images of The Portfolio Website:
 
-## Built With
+![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
+![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
+![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
+![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
+![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
+![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
+![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
+![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
 
-My personal portfolio website <a href="https://portfolio-website-rahuljha4171.vercel.app/" target="_blank">rahul jha</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-This project is built using these technologies.
+### Resources Used in This Project
 
-- React.js
-- CSS3
-- VsCode
-- Vercel
+- Profile image in the home page created by using https://www.midjourney.com/ tool.
+- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
+- Fonts from https://fonts.google.com/ <br />
+- Icons from https://iconify.design/ <br />
+- LightBulb Svg from https://lukaszadam.com/illustrations <br />
 
-## Features
+### External Libraries used in this project:
 
-**Multi-Page Layout**
+- [framer-motion](https://www.framer.com/motion/) <br />
+- [Tailwind css](https://tailwindcss.com/) <br />
 
-**Styled with React-Bootstrap and Css**
 
-**Fully Responsive**
-
-**Dark and Light Theme**
-
-## Getting Started
-
-Clone this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Request A Feature</a>
-
-</h3>
-
-<p align="center">
-Give a ⭐ if you like this website!
-</p>
