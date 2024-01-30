@@ -7,7 +7,7 @@
 
   <h2 align="center">Fatima’s Boutique</h2>
 
-  This website is fully responsive to Fatima’s Boutique portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  This website is fully responsive to Boutique's portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://noorfatima530.github.io/noor-fatima/"><strong>➥ Live Demo</strong></a>
 
