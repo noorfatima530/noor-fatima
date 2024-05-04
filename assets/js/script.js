@@ -4,6 +4,7 @@
 /**
  * form submitted button
  */
+
 var form = document.getElementById('sheet-contact-form');
   form.addEventListener("submit", e => {
     e.preventDefault();
@@ -14,7 +15,7 @@ var form = document.getElementById('sheet-contact-form');
         response => response.json()
     ).then((html) => {
       // you can put any JS code here
-      alert('success')
+      alert('Thank you! your form is submitted successfully.')
     });
   });
 
